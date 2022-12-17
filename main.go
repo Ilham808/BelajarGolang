@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 	
-import "github.com/Ilham808/BelajarGolang/library"
+import "BelajarGolang/library"
 
 func main(){
 	fmt.Println("Hello World")
